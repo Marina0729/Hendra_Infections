@@ -1,0 +1,33 @@
+﻿Sample ,Plate ,Format,Well ,siRNA ,time,Rep,Lysis ,Volume ,TCID50
+1,1,24-well ,A1,siNEG,1,rep1,Trizol,500,2000
+2,1,24-well ,B1,siNEG,1,rep2,Trizol,500,928
+3,1,24-well ,C1,siFBL,1,rep1,Trizol,500,6325
+4,1,24-well ,D1,siFBL,1,rep2,Trizol,500,6325
+5,1,24-well ,A2,siNEG,1,rep3,Trizol,500,6325
+6,1,24-well ,B2,siNEG,1,rep4,Trizol,500,9283
+7,1,24-well ,C2,siFBL,1,rep3,Trizol,500,9283
+8,1,24-well ,D2,siFBL,1,rep4,Trizol,500,6325
+9,1,24-well ,A3,siNEG,6,rep1,Trizol,500,6325
+10,1,24-well ,B3,siNEG,6,rep2,Trizol,500,9283
+11,1,24-well ,C3,siFBL,6,rep1,Trizol,500,43089
+12,1,24-well ,D3,siFBL,6,rep2,Trizol,500,9283
+13,1,24-well ,A4,siNEG,6,rep3,Trizol,500,6325
+14,1,24-well ,B4,siNEG,6,rep4,Trizol,500,6325
+15,1,24-well ,C4,siFBL,6,rep3,Trizol,500,9283
+16,1,24-well ,D4,siFBL,6,rep4,Trizol,500,6325
+17,1,24-well ,A5,siNEG,24,rep1,Trizol,500,0
+18,1,24-well ,B5,siNEG,24,rep1,Trizol,500,0
+19,1,24-well ,C5,siFBL,24,rep1,Trizol,500,0
+20,1,24-well ,D5,siFBL,24,rep2,Trizol,500,0
+21,1,24-well ,A6,siNEG,24,rep3,Trizol,500,928
+22,1,24-well ,B6,siNEG,24,rep4,Trizol,500,2000
+23,1,24-well ,C6,siFBL,24,rep3,Trizol,500,
+24,1,24-well ,D6,siFBL,24,rep4,Trizol,500,431
+25,2,6-well,A1,siNEG,1,rep1,RIPA buffer ,250,63246
+26,2,6-well,B1,siFBL,1,rep1,RIPA buffer ,250,6325
+27,2,6-well,A2,siNEG,24,rep1,RIPA buffer ,250,200000
+28,2,6-well,B2,siFBL,24,rep1,RIPA buffer ,250,63246
+29,3,6-well,A1,siNEG,1,rep2,RIPA buffer ,250,6325
+30,3,6-well,B1,siFBL,1,rep2,RIPA buffer ,250,928
+31,3,6-well,A2,siNEG,24,rep2,RIPA buffer ,250,632456
+32,3,6-well,B2,siFBL,24,rep2,RIPA buffer ,250,20000
